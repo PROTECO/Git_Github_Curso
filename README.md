@@ -8,7 +8,7 @@
   <img src="img/link.png" align = "right"  width="250"/>
 </p>
 
-Créditos de la wiki: [https://zelda.fandom.com/wiki/Link]("https://zelda.fandom.com/es/wiki/Link")
+Créditos de la wiki:  [https://zelda.fandom.com/es/wiki/Link]("https://zelda.fandom.com/es/wiki/Link")
 
 > **Comandos de git:** [Git Cheat Sheet]("https://zelda.fandom.com/wiki/Link")
 
