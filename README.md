@@ -68,10 +68,10 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 
 **SECCIONES**
 
-- [ ] [Perfil]("") [LMP]
-- [ ] [Concepto y creación]("") [MN]
-- [ ] [Habilidades]("") [FS]
-- [ ] [Apariciones (Solo pongan 3)]("") [FS]
+- [ ] [Perfil]("https://github.com/PROTECO/git_gihub_gen43/blob/master/Wiki/Perfil.md") [LMP]
+- [ ] [Concepto y creación]("https://github.com/PROTECO/git_gihub_gen43/blob/master/Wiki/ConceptoCreacion.md") [MN]
+- [ ] [Habilidades]("https://github.com/PROTECO/git_gihub_gen43/blob/master/Wiki/Habilidades.md") [FS]
+- [ ] [Apariciones (Solo pongan 3)]("https://github.com/PROTECO/git_gihub_gen43/blob/master/Wiki/Apariciones.md") [FS]
 
 
 > Disclaimer: Leyendo detalladamente la wiki me di cuenta que es de gente intensa, así que quedémonos con lo que no da cringe. Favor de no sacar teorías.
