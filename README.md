@@ -77,4 +77,4 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 > Disclaimer: Leyendo detalladamente la wiki me di cuenta que es de gente intensa, así que quedémonos con lo que no da cringe. Favor de no sacar teorías.
 
 
-
+Garcia Cerda Gerardo Daniel 
