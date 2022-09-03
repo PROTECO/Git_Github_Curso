@@ -86,3 +86,5 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 ADRIAN CORTEZ MENDOZA
 Jiménez Treviño Emilio Cristóbal
 Soy de la generacion 43
+
+Leon Gallardo Ian Yael
