@@ -9,10 +9,6 @@ Pongan aquí el perfil
 
 `![]('img/nombreImagen.png')`
 
-### Jugabilidad de Espada
-
-Link está también representado como zurdo en casi todos los juegos, a excepción de Twilight Princess y en Skyward Sword, donde es diestro, debido a que fue cambiado para encontrar una mejor forma de controlar la espada del personaje con el mando de Wii. Sin embargo, en la versión de GameCube de Twilight Princess, Link es zurdo.
-
 ### Personalidad
 
 Al ser diseñado como un protagonista silencioso o avatar para que el jugador se inserte en la historia a través de él; la personalidad de Link no es explorada en la historia de los videojuegos de la saga, tradición de la saga que continúa hasta la actualidad. Aún así, en distintos videojuegos se remarcan ciertos rasgos de su forma de ser, principalmente siendo reconocido y proclamado por su coraje ante las dificultades junto a sus cualidades heroicas por excelencia como: su amabilidad, intrepidez, solidaridad y humildad con los demás. Otro rasgo icónico de Link es su sentido de la responsabilidad por proteger a Hyrule y a la gente, formándose como un hábil guerrero sin importar sus orígenes o su debilidad en comparación con figuras poderosas como La Princesa Zelda o Ganon. Link ha sido capaz de realizar esto incluso cuando desconoce el hecho de que este destino fue forjado por las Diosas, demostrando un carácter desinteresado ante posiciones de poder o elecciones del destino, y en cambio, demostrando humildad por las recompensas y un carácter genuinamente generoso.
@@ -32,4 +28,9 @@ En la historia de "The Legend of Zelda: The Wind Waker", Link es un niño de 12 
 En los videojuegos de "The Legend of Zelda: Ocarina of Time" y "The Legend of Zelda: Majora's Mask", Link es un niño y adolescente desinteresado, y de personalidad algo reservada. Valora mucho a su amiga Saria y Navi, esta última siendo su fiel compañera a lo largo de la aventura. Sin embargo, después de los eventos de cambio de la línea temporal ocasionados por la Princesa Zelda, Link se dedicó a buscar a Navi desesperadamente en medio del bosque después de su desaparición al final de su aventura. Años después, Link parecía estar frustrado por no haber podido transmitir sus enseñanzas heroicas a próximas generaciones y, posiblemente no haber sido recordado por nadie como un héroe. Link aparentemente tampoco logró encontrar a Navi. Generaciones después, encarnó como el Espíritu del Héroe en donde es mentor del Link de Twilight Princess. Este le enseña el arte de la espada y las técnicas necesarias para que Link se embarque en su aventura.
 
 Otras de las características de la mayoría de las encarnaciones de Link incluyen el hecho que tiene un gran apetito y suele dormir bastante.
+
+
+### Jugabilidad de Espada
+
+Link está también representado como zurdo en casi todos los juegos, a excepción de Twilight Princess y en Skyward Sword, donde es diestro, debido a que fue cambiado para encontrar una mejor forma de controlar la espada del personaje con el mando de Wii. Sin embargo, en la versión de GameCube de Twilight Princess, Link es zurdo.
 
