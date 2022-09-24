@@ -21,6 +21,15 @@ Link parte al Castillo de Ganon para derrotar a Ganondorf y salvar a Zelda. Link
 
 ![Image text](https://github.com/Ucastro20/git_gihub_gen43/blob/master/img/Link_OofT.jpg)
 
+## The Legend of Zelda: Majora's Mask
+
+Majora's Mask ocurre poco después de la derrota de Ganondorf cuando Link es enviado de regreso a su infancia al final de Ocarina of Time, comenzando una nueva historia en la que Ganondorf nunca llegó al poder. Después de dejar Hyrule y adentrarse en un bosque misterioso en busca de Navi, es emboscado por Skull Kid que está poseído por Majora's Mask, quien roba el caballo Epona de Link y la mágica Ocarina of Time. Persiguiendo a Skull Kid, Link cae en una grieta y llega a un mundo llamado Termina. Debe salvar esta tierra del mal de Majora's Mask, que ha llevado a la luna a una órbita en descomposición, lo que hará que se estrelle contra la ciudad capital de Termina en tres días, matando a todos. 
+
+Link usa la Ocarina del Tiempo (recuperada desde el principio) y la Canción del Tiempo, que lo envía atrás en el tiempo cuando la toca, para revivir estos tres días una y otra vez para evitar el desastre. En el camino, Link encuentra muchas máscaras mágicas propias, algunas de las cuales le permiten transformarse. Esas máscaras pueden convertirlo en un Goron con forma de roca, un pequeño Deku Scrub con forma de planta, un elegante Zora acuático o el poderoso Fierce Deity Link.
+
+Eventualmente, Link logra liberar a los Cuatro Gigantes, deidades enigmáticas que pueden detener el descenso de la Luna, y se enfrenta a Skull Kid. En este punto, Majora, la entidad malvada que reside dentro de Majora's Mask, abandona a su anfitrión ahora inútil y se retira al núcleo de la Luna. Link lo persigue y, después de una larga y acalorada batalla contra las tres encarnaciones de Majora, la entidad finalmente es derrotada y la amenazadora Luna desaparece. Al devolver la máscara ahora sin vida al vendedor de máscaras felices, Link deja a sus nuevos amigos y continúa su viaje, mientras que la gente de Termina celebra una vez más el amanecer de un nuevo día. Se desconoce si regresó o no a Hyrule.
+
+![Image text](https://github.com/Ucastro20/git_gihub_gen43/blob/master/img/Link_MsMk.jpg)
 
 #### Para poner una imagen: 
 
