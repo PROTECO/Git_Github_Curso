@@ -24,6 +24,9 @@ En los videojuegos de "The Legend of Zelda: Ocarina of Time" y "The Legend of Ze
 
 Otras de las características de la mayoría de las encarnaciones de Link incluyen el hecho que tiene un gran apetito y suele dormir bastante.
 
+### Edad
+
+Su edad oscila entre los diez y diecinueve años en cualquier punto de la saga. Aún así, la leyenda dice que solo alguien mayor de diecisiete años podrá poseer el poder de la Trifuerza, lo que sitúa a Link sobre esa franja de edad. En algunos juegos de Zelda se conoce la edad de Link con exactitud, como en Ocarina of Time, donde Link tiene diez años y tras despertar de su letargo en el Reino Sagrado tiene diecisiete años. En otros juegos, la edad de Link es más bien una suposición, un caso claro es Majora's Mask, pues cronológicamente es el mismo Link que el de Ocarina of Time, así que su edad oscila entre los diez y doce años. Sin embargo, en otros juegos de Zelda no se sabe muy bien cual es la edad de Link por la falta de información, un ejemplo claro es The Legend of Zelda.
 
 ### Jugabilidad de Espada
 
