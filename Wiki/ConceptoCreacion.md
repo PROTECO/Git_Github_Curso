@@ -18,7 +18,8 @@ Además de las limitaciones de la época, Link carece de diálogos o una caracte
      height="180">
 <figcaption>Shigeru Miyamoto</figcaption>
 </figure>
-
+<br>
+</br>
 y los diseñadores de Nintendo, se ha señalado varias veces que el foco de la saga se encuentra en las experiencias personales del jugador con el videojuego. De esta manera, Link habla para que el jugador humano lo pudiera llenar con sus propias características, experiencias, motivaciones, sentimientos, pensamientos y emociones, esto es con el fin de permitir al jugador entrar en este mundo de fantasía y tener una experiencia íntima con él, y con aquellos que viven en ella. Por lo tanto, la intención es que su papel en el diálogo y la trama estén en blanco, para que sea rellenado por las palabras y los pensamientos del jugador, hasta cierto punto. Su discurso suele ser reemplazado por una respuesta simple y concisa que el jugador puede elegir. Esta tradición se mantiene hasta la actualidad, aunque en distintas ocasiones Link muestra ciertos momentos de caracterización e incluso diálogos, demostrado en Twilight Princess, The Wind Waker o Skyward Sword. En estos juegos Link utiliza frases cortas, como "¡Vamos!" en ciertos puntos durante el juego.
 <br>
 </br>
@@ -37,5 +38,6 @@ Durante la creación de Wind Waker, el diseño de Link tomó una apariencia much
      height="180">
 <figcaption>Concept Art de Link en Wind Waker</figcaption>
 </figure>
-
+<br>
+</br>
 Años después, en el desarrollo de Twilight Princess se tuvo la idea de diseñar a un Link adulto y maduro, sin embargo, esto fue descartado por su apariencia juvenil y adolescente. En el videojuego más reciente, Breath of the Wild, se diseñó a Link con una apariencia intencionalmente andrógina y de "género-neutro", para que tanto jugadores hombres y mujeres pudiesen identificarse más con el personaje. Eiji Aounuma ha declarado que desde Ocarina of Time, siempre quiso que Link fuese un "personaje género neutral", es decir, que su diseño y acciones como héroe se acoplen normalmente ambas audiencias femeninas y masculinas sin perder el sentimiento de inmersión en la jugabilidad. 
