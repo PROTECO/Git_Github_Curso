@@ -18,6 +18,7 @@ Además de las limitaciones de la época, Link carece de diálogos o una caracte
      height="180">
 <figcaption>Shigeru Miyamoto</figcaption>
 </figure>
+
 y los diseñadores de Nintendo, se ha señalado varias veces que el foco de la saga se encuentra en las experiencias personales del jugador con el videojuego. De esta manera, Link habla para que el jugador humano lo pudiera llenar con sus propias características, experiencias, motivaciones, sentimientos, pensamientos y emociones, esto es con el fin de permitir al jugador entrar en este mundo de fantasía y tener una experiencia íntima con él, y con aquellos que viven en ella. Por lo tanto, la intención es que su papel en el diálogo y la trama estén en blanco, para que sea rellenado por las palabras y los pensamientos del jugador, hasta cierto punto. Su discurso suele ser reemplazado por una respuesta simple y concisa que el jugador puede elegir. Esta tradición se mantiene hasta la actualidad, aunque en distintas ocasiones Link muestra ciertos momentos de caracterización e incluso diálogos, demostrado en Twilight Princess, The Wind Waker o Skyward Sword. En estos juegos Link utiliza frases cortas, como "¡Vamos!" en ciertos puntos durante el juego.
 <br>
 </br>
