@@ -1,5 +1,7 @@
 # Concepto y creación
-
+<p>
+  <div align="center"><img src="zeldaNameConcepto.png"></div>
+</p>
   + Rol
  
 Link fue creado por Shigeru Miyamoto, inspirado por sus recuerdos de su infancia, incluyendo películas y libros que disfrutó en su juventud. Takashi Tezuka (diseñador de videojuegos) también siguió este patrón, notablemente tomando inspiración de la obra El Señor de los Anillos de J. R. R Tolkien, que fue una de sus obras favoritas.
