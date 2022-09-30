@@ -75,8 +75,8 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 
 - [ ] [Perfil]("") [LMP]
 - [ ] [Concepto y creación]("") [MN]
-- [ ] [Habilidades]("") [FS]
-- [ ] [Apariciones (Solo pongan 3)]("") [FS]
+- [ ] [Habilidades](Wiki/Habilidades.md) [FS]
+- [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md) [FS]
 
 
 > Disclaimer: Leyendo detalladamente la wiki me di cuenta que es de gente intensa, así que quedémonos con lo que no da cringe. Favor de no sacar teorías.
