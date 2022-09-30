@@ -20,7 +20,7 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 | Criterio | Porcentaje|
 |:--------:|:---------:|
 | Proyecto |    70%    |
-| Tarea    |    20%    |
+| Tarea    |    30%    |
 
 ### Equipos:
 
@@ -88,3 +88,21 @@ Fabián Josafat Díaz Silleros
 ADRIAN CORTEZ MENDOZA
 Jiménez Treviño Emilio Cristóbal
 Soy de la generacion 43
+
+# Calificaciones 🥇🥈🥉
+|**N°**|**Nombre**|**Tarea✳**|**Proyecto**|**Extra**|**Calificación**|
+|:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
+|1|Ulises Castro Rodriguez|3|7|-|10|
+|2|Alan Salvador Chilpa Navarro|3|7|1|10|
+|3|Adrián Cortez Mendoza|-|4.2|-|-|
+|4|Fabián Josafat Díaz Silleros|3|6.3|1|10|
+|5|Iván Fernández Cano|-|6.3|-|6|
+|6|Gerardo Daniel Garcia Cerda|3|4.2|-|7|
+|7|Emilio Cristóbal Jiménez Treviño|3|4.2|-|7|
+|8|Ian Yael Leon Gallardo|3|7|-|10|
+|9|Alejandro Mendieta Macias|1.5|7|-|9|
+|10|Pedro Eduardo Olivera Parias|1|4.2|-|-|
+|11|Brayan Tellez Cruz|3|7|-|10|
+
+**El extra lo tomé de la tarea de modificando su README** ya que era algo sencillo de hacer y todavía está vigente entonces todavía podría haber cambios...
+
