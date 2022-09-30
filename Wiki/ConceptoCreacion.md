@@ -3,6 +3,7 @@
 <div align="center"><img src="../img/zeldaNameConcepto.png"></div>
 </p>
 
+
 <br>
 </br>
 
@@ -41,3 +42,5 @@ Durante la creación de Wind Waker, el diseño de Link tomó una apariencia much
 <br>
 </br>
 Años después, en el desarrollo de Twilight Princess se tuvo la idea de diseñar a un Link adulto y maduro, sin embargo, esto fue descartado por su apariencia juvenil y adolescente. En el videojuego más reciente, Breath of the Wild, se diseñó a Link con una apariencia intencionalmente andrógina y de "género-neutro", para que tanto jugadores hombres y mujeres pudiesen identificarse más con el personaje. Eiji Aounuma ha declarado que desde Ocarina of Time, siempre quiso que Link fuese un "personaje género neutral", es decir, que su diseño y acciones como héroe se acoplen normalmente ambas audiencias femeninas y masculinas sin perder el sentimiento de inmersión en la jugabilidad. 
+=======
+
