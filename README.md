@@ -34,7 +34,7 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 - **Movimiento Naranja [MN]**: 
 - **Farmacias Similares [FS]**:
-- **La Mafia del Poder [LMP]**: 
+- **La Mafia del Poder [LMP]**: Fabián Josafat Díaz Silleros
 
 ### Convención de commits 👀
 
