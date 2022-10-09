@@ -90,7 +90,7 @@ Jiménez Treviño Emilio Cristóbal
 Soy de la generacion 43
 
 # Calificaciones 🥇🥈🥉
-|**N°**|**Nombre**|**Tarea✳**|**Proyecto**|**Extra**|**Calificación**|
+|**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
 |1|Ulises Castro Rodriguez|3|7|-|10|
 |2|Alan Salvador Chilpa Navarro|3|7|1|10|
@@ -103,6 +103,4 @@ Soy de la generacion 43
 |9|Alejandro Mendieta Macias|1.5|7|-|9|
 |10|Pedro Eduardo Olivera Parias|1|4.2|1|6|
 |11|Brayan Tellez Cruz|3|7|-|10|
-
-**El extra lo tomé de la tarea de modificando su README** ya que era algo sencillo de hacer y todavía está vigente entonces todavía podría haber cambios...
 
