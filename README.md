@@ -26,15 +26,15 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 | Nombre   		      | Integrantes                    |
 |:--------------------:|:------------------------------:|
-| Movimiento Naranja   | Adrián, Pedro, Emilio          |
-| Farmacias Similares 	| Ulises, Ian, Brayan, Alejandro |
-| La Mafia del Poder 	| Alan, Fabián, Gerardo          |
+|   |     |
+|  	|     |
+|  	|     |
 
 ### Líderes
 
-- **Movimiento Naranja [MN]**: 
-- **Farmacias Similares [FS]**:
-- **La Mafia del Poder [LMP]**: Fabián Josafat Díaz Silleros
+- ** [MN]**: 
+- ** [FS]**:
+- ** [LMP]**:
 
 ### Convención de commits 👀
 
@@ -82,25 +82,21 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 > Disclaimer: Leyendo detalladamente la wiki me di cuenta que es de gente intensa, así que quedémonos con lo que no da cringe. Favor de no sacar teorías.
 
 
-Fabián Josafat Díaz Silleros
+*Anoten aquí sus nombres (en la parte blanca, favor de no eliminar las 5 líneas verticales |)
 
-
-ADRIAN CORTEZ MENDOZA
-Jiménez Treviño Emilio Cristóbal
-Soy de la generacion 43
 
 # Calificaciones 🥇🥈🥉
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
-|1|Ulises Castro Rodriguez|3|7|-|10|
-|2|Alan Salvador Chilpa Navarro|3|7|1|10|
-|3|Adrián Cortez Mendoza|-|4.2|-|-|
-|4|Fabián Josafat Díaz Silleros|3|6.3|1|10|
-|5|Iván Fernández Cano|-|6.3|-|6|
-|6|Gerardo Daniel Garcia Cerda|3|4.2|1|8|
-|7|Emilio Cristóbal Jiménez Treviño|3|4.2|1|8|
-|8|Ian Yael Leon Gallardo|3|7|1|10|
-|9|Alejandro Mendieta Macias|1.5|7|-|9|
-|10|Pedro Eduardo Olivera Parias|1|4.2|1|6|
-|11|Brayan Tellez Cruz|3|7|-|10|
+|1|                         |||||
+|2|                         |||||
+|3|                         |||||
+|4|                         |||||
+|5|                         |||||
+|6|                         |||||
+|7|                         |||||
+|8|                         |||||
+|9|                         |||||
+|10|                         |||||
+|11|                         |||||
 
