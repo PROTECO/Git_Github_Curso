@@ -2,7 +2,7 @@
   <img src="img/github.jpg" align = "right"  width="70" height="70" />
 </p>
 
-# Git X GitHub 🐈‍⬛ 🐙
+# Git - GitHub 
 
 <p>
   <img src="img/link.png" align = "right"  width="250"/>
@@ -12,7 +12,7 @@ Créditos de la wiki:  [https://zelda.fandom.com/es/wiki/Link]("https://zelda.fa
 
 > **Comandos de git:** [Git Cheat Sheet]("https://zelda.fandom.com/wiki/Link")
 
-Holas a todos y bienvenidos sean al curso de Git + GitHub. Saber git es vital para trabajar en la industria del software así que mucho ojo.
+Holas a todos y bienvenidos sean al curso de Git y GitHub. Saber git es vital para trabajar en la industria del software así que mucho ojo.
 
 Como creo todavía no tienen experiencia en la parte de programación (algún valiente que acepte preguntas le damos un premio), haremos la creación de un wiki de Link de The Legend of Zelda.
 ### Evaluación 🤖✍🏻
