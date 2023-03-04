@@ -98,7 +98,7 @@ Imparte: Samuel Garrido
 |7|                         |||||
 |8|                         |||||
 |9|                         |||||
-|10|                         |||||
+|10| Garcia Acevedo Jonathan Enrique   |||||
 |11|                         |||||
 |12|                         |||||
 |13|                         |||||
