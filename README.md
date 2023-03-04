@@ -105,7 +105,7 @@ Imparte: Samuel Garrido
 |14|                         |||||
 |15|                         |||||
 |16|                         |||||
-|17|                         |||||
+|17|  Angel Alberto Lechuga Milpas                       |||||
 |18|                         |||||
 |19|                         |||||
 |20|                         |||||
