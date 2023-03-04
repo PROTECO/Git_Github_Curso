@@ -94,7 +94,7 @@ Imparte: Samuel Garrido
 |3|                         |||||
 |4|                         |||||
 |5|                         |||||
-|6|                         |||||
+|6|    Alejandro Cortes Mora                     |||||
 |7|                         |||||
 |8|                         |||||
 |9|                         |||||
