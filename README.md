@@ -122,6 +122,6 @@ Imparte: Samuel Garrido
 |31|                         |||||
 |32|                         |||||
 |33|                         |||||
-|34|                         |||||
+|34|Erika Xitlaly Sotelo Perez|||||
 |35|                         |||||
 |36|                         |||||
