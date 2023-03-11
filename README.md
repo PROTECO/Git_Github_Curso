@@ -95,7 +95,7 @@ Imparte: Samuel Garrido
 |4|                         |||||
 |5|   Castillo Martinez diego Leonardo                     |||||
 |6|                         |||||
-|7|                         |||||
+|7| Dominguez Reyes Cynthia Berenice                        |||||
 |8|                         |||||
 |9|                         |||||
 |10| Garcia Acevedo Jonathan Enrique   |||||
