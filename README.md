@@ -109,7 +109,7 @@ Imparte: Samuel Garrido
 |18|                         |||||
 |19|                         |||||
 |20|                         |||||
-|21|                         |||||
+|21| Alejandro Jair Marquina Vazquez|||||
 |22|Martínez Rosales Hugo Armando|||||
 |23|Meza Sánchez Luis Arturo  |||||
 |24|                         |||||
