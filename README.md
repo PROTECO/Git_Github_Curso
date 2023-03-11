@@ -19,7 +19,7 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 | Criterio | Porcentaje|
 |:--------:|:---------:|
-| Proyecto |    65%    |
+| Proyecto |    70%    |
 | Tarea    |    30%    |
 
 ### Equipos:
