@@ -110,7 +110,7 @@ Imparte: Samuel Garrido
 |19|                         |||||
 |20|                         |||||
 |21|                         |||||
-|22|                         |||||
+|22|Martínez Rosales Hugo Armando|||||
 |23|                         |||||
 |24|                         |||||
 |25|                         |||||
