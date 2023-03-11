@@ -118,7 +118,7 @@ Imparte: Samuel Garrido
 |27|                         |||||
 |28|Roldan Montero Hugo Alejandro                         |||||
 |29|                         |||||
-|30|                         |||||
+|30|Rufino Lopez Maria Elena |||||
 |31|                         |||||
 |32|                         |||||
 |33|                         |||||
