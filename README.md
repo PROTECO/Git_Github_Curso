@@ -111,7 +111,7 @@ Imparte: Samuel Garrido
 |20|                         |||||
 |21|                         |||||
 |22|Martínez Rosales Hugo Armando|||||
-|23|                         |||||
+|23|Meza Sánchez Luis Arturo  |||||
 |24|                         |||||
 |25|Olivos Jimenez Luis Mario|||||
 |26|                         |||||
