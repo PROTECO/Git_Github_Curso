@@ -98,19 +98,19 @@ Imparte: Samuel Garrido
 |7|                         |||||
 |8|                         |||||
 |9|                         |||||
-|10|                         |||||
+|10| Garcia Acevedo Jonathan Enrique   |||||
 |11|                         |||||
 |12|                         |||||
 |13|                         |||||
 |14|                         |||||
 |15|                         |||||
 |16|                         |||||
-|17|                         |||||
+|17|  Angel Alberto Lechuga Milpas                       |||||
 |18|                         |||||
 |19|                         |||||
 |20|                         |||||
 |21|                         |||||
-|22|                         |||||
+|22|Martínez Rosales Hugo Armando|||||
 |23|                         |||||
 |24|                         |||||
 |25|                         |||||
@@ -122,6 +122,6 @@ Imparte: Samuel Garrido
 |31|                         |||||
 |32|                         |||||
 |33|                         |||||
-|34|                         |||||
+|34|Erika Xitlaly Sotelo Perez|||||
 |35|                         |||||
 |36|                         |||||
