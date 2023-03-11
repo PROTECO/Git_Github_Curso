@@ -8,8 +8,6 @@
 
 Créditos de la wiki:  [KirbyPedia]("https://en.wikipedia.org/wiki/Kirby_(series)")
 
-> **Comandos de git:** [KirbyPedia]("https://en.wikipedia.org/wiki/Kirby_(series)")
-
 <p>
   <img src="img/kirby.png" align = "right"  width="100"/>
 </p>
@@ -24,19 +22,6 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 | Proyecto |    70%    |
 | Tarea    |    30%    |
 
-### Equipos:
-
-| Nombre   		      | Integrantes                    |
-|:--------------------:|:------------------------------:|
-|   |     |
-|  	|     |
-|  	|     |
-
-### Líderes
-
-- ** [MN]**: 
-- ** [FS]**:
-- ** [LMP]**:
 
 ### Convención de commits 👀
 
