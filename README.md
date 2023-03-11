@@ -89,7 +89,7 @@ Imparte: Samuel Garrido
 # Calificaciones 🥇🥈🥉
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
-|1|                         |||||
+|1|Rene Leonardo Ahumada Lemus                   |||||
 |2|                         |||||
 |3|                         |||||
 |4| Carrasco Meza Alan Michel |||||
