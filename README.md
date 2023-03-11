@@ -84,10 +84,8 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 
 *Anoten aquí sus nombres (en la parte blanca, favor de no eliminar las 5 líneas verticales |)
 
-=======
-Imparte: Samuel Garrido
-
->>>>>>> 2bc2a6ed46f405cdbec34b2de30ac0606b353fac
+Imparte : Samuel Garrido
+ Prueba
 # Calificaciones 🥇🥈🥉
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
