@@ -92,10 +92,10 @@ Imparte: Samuel Garrido
 |1|                         |||||
 |2|                         |||||
 |3|                         |||||
-|4|                         |||||
-|5|                         |||||
+|4| Carrasco Meza Alan Michel |||||
+|5|   Castillo Martinez diego Leonardo                     |||||
 |6|                         |||||
-|7|                         |||||
+|7| Dominguez Reyes Cynthia Berenice                        |||||
 |8|                         |||||
 |9|                         |||||
 |10| Garcia Acevedo Jonathan Enrique   |||||
@@ -103,22 +103,22 @@ Imparte: Samuel Garrido
 |12|                         |||||
 |13|                         |||||
 |14|                         |||||
-|15|                         |||||
+|15| Jimena Hernández García |||||
 |16|                         |||||
 |17|  Angel Alberto Lechuga Milpas                       |||||
 |18|                         |||||
 |19|                         |||||
 |20|                         |||||
-|21|                         |||||
+|21| Alejandro Jair Marquina Vazquez|||||
 |22|Martínez Rosales Hugo Armando|||||
-|23|                         |||||
+|23|Meza Sánchez Luis Arturo  |||||
 |24|                         |||||
-|25|                         |||||
+|25|Olivos Jimenez Luis Mario|||||
 |26|                         |||||
 |27|                         |||||
-|28|                         |||||
+|28|Roldan Montero Hugo Alejandro                         |||||
 |29|                         |||||
-|30|                         |||||
+|30|Rufino Lopez Maria Elena |||||
 |31|                         |||||
 |32|                         |||||
 |33|                         |||||
