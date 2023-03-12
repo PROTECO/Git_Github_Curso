@@ -121,7 +121,7 @@ Imparte: Samuel Garrido
 |30|Rufino Lopez Maria Elena |||||
 |31|                         |||||
 |32|                         |||||
-|33|                         |||||
+|33|Jenyfer Estefanya Sanchez Gachuz|||||
 |34|Erika Xitlaly Sotelo Perez|||||
 |35|                         |||||
 |36|                         |||||
