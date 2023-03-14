@@ -108,7 +108,7 @@ Imparte: Samuel Garrido
 |17|  Angel Alberto Lechuga Milpas                       |||||
 |18|                         |||||
 |19|                         |||||
-|20|                         |||||
+|20|Márquez Sánchez Mirna Daniela   |||||
 |21| Alejandro Jair Marquina Vazquez|||||
 |22|Martínez Rosales Hugo Armando|||||
 |23|Meza Sánchez Luis Arturo  |||||
