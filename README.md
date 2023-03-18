@@ -115,7 +115,7 @@ Imparte: Samuel Garrido
 |24|                         |||||
 |25|Olivos Jimenez Luis Mario|||||
 |26|                         |||||
-|27|                         |||||
+|27|Rodriguez Garcia Javier Antonio|||||
 |28|Roldan Montero Hugo Alejandro                         |||||
 |29|Romero Garía Diana Sofía|||||
 |30|Rufino Lopez Maria Elena |||||
