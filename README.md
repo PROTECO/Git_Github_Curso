@@ -123,5 +123,5 @@ Imparte: Samuel Garrido
 |32|                         |||||
 |33|Jenyfer Estefanya Sanchez Gachuz|||||
 |34|Erika Xitlaly Sotelo Perez|||||
-|35|                         |||||
+|35|Treviño Selles Jorge Eithan|||||
 |36|                         |||||
