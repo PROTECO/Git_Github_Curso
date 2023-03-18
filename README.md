@@ -26,15 +26,15 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 | Nombre   		      | Integrantes                    |
 |:--------------------:|:------------------------------:|
-|   |     |
-|  	|     |
-|  	|     |
+| Los Tucanes de Mazatlan |     |
+| Chile Del Que Pica	    |     |
+| Cibarium Selecto	      |     |
 
 ### Líderes
 
-- ** [MN]**: 
-- ** [FS]**:
-- ** [LMP]**:
+- ** [LTM] **: Alejandro Cortés Mora
+- ** [CDQP] **: Javier Antonio Rodríguez García
+- ** [SL] **: Hugo Alejandro Roldan Montero
 
 ### Convención de commits 👀
 
