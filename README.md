@@ -90,7 +90,7 @@ Imparte: Samuel Garrido
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
 |1|Rene Leonardo Ahumada Lemus                   |||||
-|2|                         |||||
+|2|Alquicira Peña Luis Enrique                       |||||
 |3|                         |||||
 |4| Carrasco Meza Alan Michel |||||
 |5|   Castillo Martinez diego Leonardo                     |||||
