@@ -26,15 +26,15 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 | Nombre   		      | Integrantes                    |
 |:--------------------:|:------------------------------:|
-|   |     |
-|  	|     |
-|  	|     |
+| Los Tucanes de Mazatlan |     |
+| Chile Del Que Pica	    |     |
+| Cibarium Selecto	      |     |
 
 ### Líderes
 
-- ** [MN]**: 
-- ** [FS]**:
-- ** [LMP]**:
+- ** [LTM] **: Alejandro Cortés Mora
+- ** [CDQP] **: Javier Antonio Rodríguez García
+- ** [SL] **: Hugo Alejandro Roldan Montero
 
 ### Convención de commits 👀
 
@@ -73,10 +73,10 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 
 **SECCIONES**
 
-- [ ] [Perfil]("") [LMP]
-- [ ] [Concepto y creación]("") [MN]
-- [ ] [Habilidades](Wiki/Habilidades.md) [FS]
-- [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md) [FS]
+- [ ] [Perfil]("")
+- [ ] [Concepto y creación]("")
+- [ ] [Habilidades](Wiki/Habilidades.md)
+- [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md)
 
 
 > Disclaimer: Leyendo detalladamente la wiki me di cuenta que es de gente intensa, así que quedémonos con lo que no da cringe. Favor de no sacar teorías.
@@ -90,7 +90,7 @@ Imparte: Samuel Garrido
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
 |1|Rene Leonardo Ahumada Lemus                   |||||
-|2|                         |||||
+|2|Alquicira Peña Luis Enrique                       |||||
 |3|                         |||||
 |4| Carrasco Meza Alan Michel |||||
 |5|   Castillo Martinez diego Leonardo                     |||||
@@ -123,5 +123,5 @@ Imparte: Samuel Garrido
 |32|                         |||||
 |33|Jenyfer Estefanya Sanchez Gachuz|||||
 |34|Erika Xitlaly Sotelo Perez|||||
-|35|                         |||||
+|35|Treviño Selles Jorge Eithan|||||
 |36|                         |||||
