@@ -101,7 +101,7 @@ Imparte: Samuel Garrido
 |10| Garcia Acevedo Jonathan Enrique   |||||
 |11|                         |||||
 |12| Gonzalez Frias Ana Paula                        |||||
-|13|                         |||||
+|13| González García David Elias                        |||||
 |14|                         |||||
 |15| Jimena Hernández García |||||
 |16|                         |||||
