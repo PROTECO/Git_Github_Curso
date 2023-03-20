@@ -10,13 +10,13 @@
 
 ## Creación
 
-<p>
-<div align="right"><img src="../img/Nintendo.png" width="100" 
-     height="35"></div>
-</p>
+
 ### Nintendo.
 
-
+<p>
+<div align="right"><img src="../img/nintendo.png" width="1000" 
+     height="300"></div>
+</p>
 
  
 Nintendo, es la empresa desarrolladora del popular personaje de videojuegos **Mario**, sin embargo, todo empezó en el año 1889, cuando Fusajiro Yamauchi fundó una pequeña empresa llamada Nintendo Koppai para fabricar tarjetas de juego japonesas llamadas "hanafuda". El negocio fue sobre ruedas durante muchas décadas y la empresa siguió siendo uno de los principales productores de hanafuda del mundo.
@@ -37,8 +37,8 @@ El revés inspiró a Yamauchi a volver a la mesa de dibujo y pidió al artista y
 
 ### Primera aparición.
 <p>
-<div align="right"><img src="../img/donkeyKong.png" width="100" 
-     height="110"></div>
+<div align="center"><img src="../img/donkeyKong.png" width="300" 
+     height="330"></div>
 </p>
 Donkey Kong (ドンキーコング, Donkī Kongu) es un videojuego arcade creado por Nintendo en el año 1981 la versión arcade. Es un videojuego del género plataformas que se enfoca en controlar al personaje sobre una serie de plataformas mientras evita obstáculos. La historia no es muy compleja, pero funciona para la época. El videojuego consiste en que Mario (llamado Jumpman en este videojuego ) debe rescatar a una dama que tiene capturada un enorme mono llamado Donkey Kong. Estos dos personajes se volvieron dos de los personajes de Nintendo más famosos.
 
