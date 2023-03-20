@@ -112,6 +112,80 @@ Sus habilidades eran iguales a las de Mario Mapache, aunque tiene la habilidad d
 
 
 
+Bola de Hielo
+
+Efecto
+Congelar a los Enemigos
+Una Bola de Hielo se puede utilizar como un proyectil, y es capaz de congelar enemigos. Mario puede tener la capacidad de disparar bolas de hielo utilizando ya sea una Flor de Hielo o un Traje Polar, que lo transformará en Mario de Hielo o Mario Pingüino respectivamente. Los Hermanos Hielo y las Plantas Pirañas de Hielo también son capaces de disparar bolas de hielo. Las Bolas de Hielo pueden ser vistas como un paralelo a las Bolas de Fuego.
+
+
+
+Mario Abeja
+
+Champiñón Abeja
+Usado en
+Mario y Luigi
+Mario Abeja es un Traje que aparece en Super Mario Galaxy y su sucesor, Super Mario Galaxy 2 lo consigues al agarrar un Champiñón Abeja, al hacerlo Mario o Luigi obtiene un traje de Abeja que obtiene un montón de poderes. Es uno de los trajes más usados a lo largo del juego pero los más débiles porque se quita el traje solo con golpearte y caer en agua.
+Habilidades
+Mario tiene el Poder de una abeja entre sus funciones van de, Volar La habilidad básica presiona A y Mario flotara por un periodo de Tiempo(Hay un indicador que aparece arriba de Mario)si se te acaba dejara de Volar y ademas no podrás Volar de Nuevo hasta Tocar suelo.Montarse a las cosas: A diferencia de otros trajes. parece ser que Mario pierde peso y puede montarse el Nubes y flores que cuando se pisa normalmente las desintegras por tu peso.Pegarse a las paredes con miel. Esta es una habilidad que hace que Mario se enganche a la pared pero solo si hay miel de otro modo no. Si haces un Giro siendo Mario Abeja la onda será amarilla, más pequeña y parece gotear miel. Si tocas el agua se transforma en Mario, eso significa que el agua es una de sus debilidades.
+
+
+
+Mario Ardilla Voladora
+
+Información
+Champiñón Bellota
+Usado en
+Mario,Luigi,Toad Amarillo,Toad Azul y los Miis
+Es una nueva habilidad de Mario, que se asemeja a una ardilla voladora como su nombre lo indica. Existe una habilidad similar que es Mario Ardilla Voladora-P.
+
+Historia
+New Super Mario Bros. U
+Mario, Luigi o los Toads adquieren esta forma al agarrar un Champiñón Bellota,Mario se puede mover de una forma parecida a Mario Capa y se asemeja a Mario Mapache, tanto por su apariencia a su habilidad.Ademas de que también con esta habilidad el puede hacer un tipo de salto de pared en el aire y también puede quedarse quieto por unos segundos en un bloque o pared vertical.
+
+Descripción
+En esa forma se pone el mono rojo hinchados, camisa y zapatos grises, una gorra roja grande con dos orejas de ardilla en él y un borde de color beige. En su espalda, que tiene un par de membranas de color gris y una cola. Este aspecto se asemeja a poco Mario Mapache.
+
+Habilidades
+Puede descender lentamente con gran habilidad y manejo.
+Puede  pegarse a las paredes o bloques durante unos segundos.   
+Es capaz de hacer un impulso en el aire con el que se gana bastante altura.
+
+
+
+Mario Bloque Hélice
+Mario Bloque Hélice hizo su debut en Super Mario 3D Land. Es una de las transformaciones de Mario en este juego. Se obtiene con la Caja Helicóptero. Al tener esta habilidad, Mario no puede lanzar bolas de fuego ni boomerangs.
+
+Funcionamiento
+Al usarse, el bloque te permite elevarte volando, cuando la hélice gira muy rápidamente; te permite llegar a zonas elevadas u ocultas en mundos donde esté disponible el bloque. También cuando vas cayendo te permite caer lentamente.
+
+Apariciones
+Super Mario 3D Land
+Super Mario 3D World
+Curiosidades
+En New Super Mario Bros. Wii, Mario tiene que levantar un item para usarlo, y en Super Mario 3D Land éste sale a modo de bloque.
+Reemplaza al Champiñón Hélice de New Super Mario Bros. Wii en Super Mario 3D Land.
+
+
+
+Mario Boo
+El artículo Mario Boo es demasiado pequeño, en comparación a lo que podría escribirse de él.
+
+Información
+Champiñón Boo
+Usado en
+Mario y Luigi
+Mario Boo es una de las muchas Habilidades de Mario, esta habilidad apareció por primera vez en Super Mario Galaxy y volvió a aparecer en Super Mario Galaxy 2. Es una versión fantasmal de Mario y Luigi, puede flotar pulsando el Botón A, y cuando agitas el wii remote, Mario Boo se vuelve invisible y puede atravesar paredes. Mario vuelve a la normalidad al tocar un rayo de luz o tener contacto con un fantasma. Debuta en la Galaxia fantasmagorica
+Items
+El objeto requerido para activar esta habilidad es el Champiñón Boo.
+
+Curiosidades
+En esta transformación los Boo te perseguirán pero esta vez se enamoran de ti. Por lo que se cree que los Boo son femeninos.
+Cuando Luigi está en este estado su bigote se ve como el de Mario.
+
+
+
+
 ![link_zelda](https://user-images.githubusercontent.com/112226789/192076243-18b60c3a-b411-4467-aed7-687087a209f1.jpg)
 
 
