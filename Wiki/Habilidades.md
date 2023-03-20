@@ -1,6 +1,7 @@
 # Habilidades
 
 Ala - P
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/mario_4.png)
 
 Información
 Primera aparición
@@ -13,6 +14,9 @@ Usado en
 Mario
 Luigi
 
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/mario_1.jpg)
+
+
 El Ala - P (no confundir con P-Wing) se utilizó en Super Mario Bros. 3 para que Mario pudiera volar por todo un nivel completo sin caerse o sin que se gastara la barra de energia, más tarde aparece en Super Mario 3D Land solo que es diferente la forma de vuelo.
 Apariciones
 Super Mario Bros 3 (Debut)
@@ -20,7 +24,11 @@ Super Mario All-Stars
 Super Mario All-Stars + Super Mario World
 Super Mario Advance 4: Super Mario Bros 3
 Super Mario 3D Land (Re-aparición)
-The Adventures Of Super Mario Bros. 3 (Episodio "Up,Up and Koopa"(Todo el Mundo Arriba)
+The Adventures Of Super Mario Bros. 3 (Episodio "Up,Up and Koopa"(Todo el Mundo Arriba))
+
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/mario_3.jpg)
+
+
 Curiosidades
 Esta transformación en Super Mario Bros 3 es recomendable en los niveles donde la pantalla se mueve, y en lugares como el mundo 5.
 Cambia mucho en Super Mario 3D Land.Super_Mario_Bros_3_-_Ala_P
@@ -44,6 +52,9 @@ SMB Logo.gif
 Última aparición
 Mario Kart 8
 Efecto
+
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/mario_2.jpg)
+
 Tirar Bolas de Fuego
 Es un poder de Mario al obtener una flor de Fuego. Para tirar fuego, el traje de Mario se hace de colores blanco y rojo, también en Mario Kart 7 aparece como un Ítem junto la flor de fuego
 
