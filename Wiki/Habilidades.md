@@ -194,13 +194,3 @@ Curiosidades
 En esta transformación los Boo te perseguirán pero esta vez se enamoran de ti. Por lo que se cree que los Boo son femeninos.
 Cuando Luigi está en este estado su bigote se ve como el de Mario.
 
-
-
-
-![link_zelda](https://user-images.githubusercontent.com/112226789/192076243-18b60c3a-b411-4467-aed7-687087a209f1.jpg)
-
-
-
-
-![link-ocarina](https://user-images.githubusercontent.com/112226789/192076009-8b9a1169-782e-464e-be54-ee2747e63c26.jpg) 
-
