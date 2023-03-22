@@ -65,6 +65,8 @@ Luigi también tiene este ataque, solo que es de color verde, más fuerte, de me
 
 
 
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Bota.png)
+
 Disfraz Bota
 
 Mario bota en el juego para SNES
@@ -76,6 +78,7 @@ La habilidad que le da la bota a los hermanos, es poder pisar a los munchers, p�
 Fue originalmente conocido en inglés como zapatos Kuribo, con "Kuribo" es el nombre japonés de Goomba sin cambios. El nombre se traduce en las notas de re-de Super Mario Bros. 3 y el remake de Game Boy Advance, pero el elemento que se ha llamado Shoe Kuribo de nuevo en el Super Mario All-Stars.
 
 
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Capa.png)
 
 Mario Capa
 
@@ -105,6 +108,7 @@ Tiene que deslizarse en un pequeño resbalín para volar mucho más alto.
 Debido a que vuela mucho más que Mario Mapache, es posible completarse fácilmente los niveles abiertos usando esta habilidad.
 
 
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Tanooki.png)
 
 Traje Tanooki
 
@@ -115,13 +119,13 @@ Ta​nooki o Traje Tanooki es un traje que puede usar Mario. Su primera aparici�
 Caracteristicas
 Es un traje basado en un animal japones llamado Tanooki. Es marrón, con manchas más claras en la palma de los pies y el estomago. También destacan sus orejas y cola de Mapache.
 
-Traje tanooki.png
 Super Mario Bros. 3
 El Traje Tanooki apareció por primera vez en Super Mario Bros. 3.. Era requerido para acceder a la transformación Mario Tanooki.
 
 Sus habilidades eran iguales a las de Mario Mapache, aunque tiene la habilidad de convertirse en Mario Estatua.
 
 
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/BolaHielo.png)
 
 Bola de Hielo
 
@@ -130,6 +134,8 @@ Congelar a los Enemigos
 Una Bola de Hielo se puede utilizar como un proyectil, y es capaz de congelar enemigos. Mario puede tener la capacidad de disparar bolas de hielo utilizando ya sea una Flor de Hielo o un Traje Polar, que lo transformará en Mario de Hielo o Mario Pingüino respectivamente. Los Hermanos Hielo y las Plantas Pirañas de Hielo también son capaces de disparar bolas de hielo. Las Bolas de Hielo pueden ser vistas como un paralelo a las Bolas de Fuego.
 
 
+
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Abeja.png)
 
 Mario Abeja
 
@@ -141,6 +147,8 @@ Habilidades
 Mario tiene el Poder de una abeja entre sus funciones van de, Volar La habilidad básica presiona A y Mario flotara por un periodo de Tiempo(Hay un indicador que aparece arriba de Mario)si se te acaba dejara de Volar y ademas no podrás Volar de Nuevo hasta Tocar suelo.Montarse a las cosas: A diferencia de otros trajes. parece ser que Mario pierde peso y puede montarse el Nubes y flores que cuando se pisa normalmente las desintegras por tu peso.Pegarse a las paredes con miel. Esta es una habilidad que hace que Mario se enganche a la pared pero solo si hay miel de otro modo no. Si haces un Giro siendo Mario Abeja la onda será amarilla, más pequeña y parece gotear miel. Si tocas el agua se transforma en Mario, eso significa que el agua es una de sus debilidades.
 
 
+
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/ArdillaVoladora.png)
 
 Mario Ardilla Voladora
 
@@ -164,6 +172,8 @@ Es capaz de hacer un impulso en el aire con el que se gana bastante altura.
 
 
 
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Helice.png)
+
 Mario Bloque Hélice
 Mario Bloque Hélice hizo su debut en Super Mario 3D Land. Es una de las transformaciones de Mario en este juego. Se obtiene con la Caja Helicóptero. Al tener esta habilidad, Mario no puede lanzar bolas de fuego ni boomerangs.
 
@@ -178,6 +188,9 @@ En New Super Mario Bros. Wii, Mario tiene que levantar un item para usarlo, y en
 Reemplaza al Champiñón Hélice de New Super Mario Bros. Wii en Super Mario 3D Land.
 
 
+
+
+![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Boo.png)
 
 Mario Boo
 El artículo Mario Boo es demasiado pequeño, en comparación a lo que podría escribirse de él.
