@@ -1,7 +1,7 @@
 # Perfil
 
 <p>
-  <img src="https://github.com/FabianDz/git_gihub_gen43/blob/master/img/Asuka8.jpg">
+  <img src="../img/Asuka8.jpg">
 </p>
 
 ### Personalidad
