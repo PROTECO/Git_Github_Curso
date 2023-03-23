@@ -14,9 +14,7 @@ Link fue creado por Shigeru Miyamoto, inspirado por sus recuerdos de su infancia
 Además de las limitaciones de la época, Link carece de diálogos o una caracterización de personaje completa, puesto que fue diseñado para que su esencia propia como personaje fuese ser un "vínculo" entre el jugador y el universo de Zelda. Con esta idea en mente, se eligió su nombre como "Link", que en inglés significa "enlace", "conexión" o "vínculo". En el videojuego, el jugador puede elegir el nombre de Link e insertar su propio nombre personal, u otro nombre que le guste, lo que añade más conexión entre el personaje como una extensión del jugador con el universo ficticio del videojuego. En otras declaraciones de Shigeru Miyamoto
 <figure>
 
-<img src="../img/Asuka9.jpg"
-     width="150" 
-     height="180">
+<img src="../img/Asuka9.jpg">
 <figcaption>Shigeru Miyamoto</figcaption>
 </figure>
 <br>
@@ -34,9 +32,7 @@ Durante la creación de Wind Waker, el diseño de Link tomó una apariencia much
 
 <figure>
 
-<img src="../img/Asuka4.jpg"
-     width="250" 
-     height="180">
+<img src="../img/Asuka4.jpg">
 <figcaption>Concept Art de Link en Wind Waker</figcaption>
 </figure>
 <br>
