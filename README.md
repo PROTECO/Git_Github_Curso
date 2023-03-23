@@ -3,7 +3,9 @@
 </p>
 
 # Git - GitHub 
-
+<p>
+  <img src="img/Asuka1.png" align = "right"  width="250"/>
+</p>
 
 Créditos de la wiki:  [https://evangelion.fandom.com/es/wiki/Asuka_Langley_Soryu]("https://evangelion.fandom.com/es/wiki/Asuka_Langley_Soryu")
 
@@ -72,8 +74,8 @@ En la tetralogía cinematográfica Rebuild of Evangelion está su homóloga, lla
 
 **SECCIONES**
 
-- [ ] [Perfil]("")
-- [ ] [Concepto y creación]("")
+- [ ] [Perfil]("Wiki/Perfil.md")
+- [ ] [Concepto y creación]("Wiki/ConceptoCreacion.md")
 - [ ] [Habilidades](Wiki/Habilidades.md)
 - [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md)
 
