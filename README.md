@@ -74,7 +74,7 @@ En la tetralogía cinematográfica Rebuild of Evangelion está su homóloga, lla
 
 **SECCIONES**
 
-- [ ] [Perfil]("Wiki/Perfil.md")
+- [ ] [Perfil](Wiki/Perfil.md)
 - [ ] [Concepto y creación]("")
 - [ ] [Habilidades](Wiki/Habilidades.md)
 - [ ] [Apariciones](Wiki/Apariciones.md)
