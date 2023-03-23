@@ -76,7 +76,10 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 - [ ] [Perfil]("")
 - [ ] [Concepto y creación]("")
 - [ ] [Habilidades](Wiki/Habilidades.md)
-- [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md)
+- [ ] [Apariciones](Wiki/Apariciones.md)
+  * Neon Genesis Evangelion
+  *  The end of Evangelion
+  * Evangelion Death (True)
 
 
 > Disclaimer: Leyendo detalladamente la wiki me di cuenta que es de gente intensa, así que quedémonos con lo que no da cringe. Favor de no sacar teorías.
