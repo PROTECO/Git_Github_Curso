@@ -5,7 +5,7 @@
 # Git - GitHub 
 
 <p>
-  <img src="img/link.png" align = "right"  width="250"/>
+  <img src="img/Asuka1.png" align = "right"  width="250"/>
 </p>
 
 Créditos de la wiki:  [https://zelda.fandom.com/es/wiki/Link]("https://zelda.fandom.com/es/wiki/Link")
@@ -73,8 +73,8 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 
 **SECCIONES**
 
-- [ ] [Perfil]("")
-- [ ] [Concepto y creación]("")
+- [ ] [Perfil]("Wiki/Perfil.md")
+- [ ] [Concepto y creación]("Wiki/ConceptoCreacion.md")
 - [ ] [Habilidades](Wiki/Habilidades.md)
 - [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md)
 
