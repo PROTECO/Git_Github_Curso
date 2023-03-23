@@ -4,9 +4,6 @@
 
 # Git - GitHub 
 
-<p>
-  <img src="img/asukaMain.jpg" align = "right"  width="250"/>
-</p>
 
 Créditos de la wiki:  [https://evangelion.fandom.com/es/wiki/Asuka_Langley_Soryu]("https://evangelion.fandom.com/es/wiki/Asuka_Langley_Soryu")
 
@@ -67,11 +64,7 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 # Asuka
 
-Asuka Langley Soryu (惣流・アスカ・ラングレー, Sōryū Asuka Rangurē ?) es la Second Children elegida por el Instituto Marduk, designada 
-<p>
-  <img src="img/asukaMain2.jpg" align = "right"  width="250"/>
-</p>
-como piloto del Evangelion Unidad 02.
+Asuka Langley Soryu (惣流・アスカ・ラングレー, Sōryū Asuka Rangurē ?) es la Second Children elegida por el Instituto Marduk, designada como piloto del Evangelion Unidad 02.
 Destacan de su aspecto su pelo rojo llameante, que recoge con sus Clips A10, y sus ojos azules, posiblemente provenientes de su herencia genética alemana. Su mejor amiga es su compañera y representante de clase, Hikari Horaki.
 
 En la tetralogía cinematográfica Rebuild of Evangelion está su homóloga, llamada Asuka Langley Shikinami.
