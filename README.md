@@ -94,7 +94,7 @@ Imparte: Samuel Garrido
 |3|                         |||||
 |4| Carrasco Meza Alan Michel |||||
 |5|   Castillo Martinez diego Leonardo                     |||||
-|6|                         |||||
+|6| Cortes Mora Alejandro                        |||||
 |7| Dominguez Reyes Cynthia Berenice                        |||||
 |8|                         |||||
 |9|                         |||||
