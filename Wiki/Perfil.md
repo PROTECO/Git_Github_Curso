@@ -20,5 +20,5 @@ Es reconocido por ser más bajo que Luigi y siempre lleva su icónica gorra roja
 A veces aparece con diversos trajes, incluyendo aquellos de sus poderes, como el Traje de Rana o de Tanooki.
 
 <p>
-  <img src="https://github.com/JaviR011/git_gihub_gen44/blob/main/img/evomario.jpg" align = "right"  width="150"/>
+  <img src="https://github.com/JaviR011/git_gihub_gen44/blob/main/img/evomario.jpg" align = "right"  width="300"/>
 </p>
