@@ -1,7 +1,7 @@
 # Perfil
 
 <p>
-  <img src="img/evomario.jpg" align = "right"  width="250"/>
+  <img src="img/evomario.jpg" align = "right"  width="150"/>
 </p>
 
 ### Personalidad
