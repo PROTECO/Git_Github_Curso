@@ -65,7 +65,7 @@ Luigi también tiene este ataque, solo que es de color verde, más fuerte, de me
 
 
 
-![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Bota.jpg)
+![Image text](https://github.com/JaviR011/git_gihub_gen44/blob/master/img/Bota.jpg)
 
 Disfraz Bota
 
@@ -78,7 +78,7 @@ La habilidad que le da la bota a los hermanos, es poder pisar a los munchers, p�
 Fue originalmente conocido en inglés como zapatos Kuribo, con "Kuribo" es el nombre japonés de Goomba sin cambios. El nombre se traduce en las notas de re-de Super Mario Bros. 3 y el remake de Game Boy Advance, pero el elemento que se ha llamado Shoe Kuribo de nuevo en el Super Mario All-Stars.
 
 
-![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Capa.jpg)
+![Image text](https://github.com/JaviR011/git_gihub_gen44/blob/master/img/Capa.jpg)
 
 Mario Capa
 
@@ -108,7 +108,7 @@ Tiene que deslizarse en un pequeño resbalín para volar mucho más alto.
 Debido a que vuela mucho más que Mario Mapache, es posible completarse fácilmente los niveles abiertos usando esta habilidad.
 
 
-![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Tanooki.jpg)
+![Image text](https://github.com/JaviR011/git_gihub_gen44/blob/master/img/Tanooki.jpg)
 
 Traje Tanooki
 
@@ -125,7 +125,7 @@ El Traje Tanooki apareció por primera vez en Super Mario Bros. 3.. Era requerid
 Sus habilidades eran iguales a las de Mario Mapache, aunque tiene la habilidad de convertirse en Mario Estatua.
 
 
-![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/BolaHielo.jpg)
+![Image text](https://github.com/JaviR011/git_gihub_gen44/blob/master/img/BolaHielo.jpg)
 
 Bola de Hielo
 
@@ -135,7 +135,7 @@ Una Bola de Hielo se puede utilizar como un proyectil, y es capaz de congelar en
 
 
 
-![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Abeja.jpg)
+![Image text](https://github.com/JaviR011/git_gihub_gen44/blob/master/img/Abeja.jpg)
 
 Mario Abeja
 
@@ -148,7 +148,7 @@ Mario tiene el Poder de una abeja entre sus funciones van de, Volar La habilidad
 
 
 
-![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/ArdillaVoladora.jpg)
+![Image text](https://github.com/JaviR011/git_gihub_gen44/blob/master/img/ArdillaVoladora.jpg)
 
 Mario Ardilla Voladora
 
@@ -172,7 +172,7 @@ Es capaz de hacer un impulso en el aire con el que se gana bastante altura.
 
 
 
-![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Helice.jpg)
+![Image text](https://github.com/JaviR011/git_gihub_gen44/blob/master/img/Helice.png)
 
 Mario Bloque Hélice
 Mario Bloque Hélice hizo su debut en Super Mario 3D Land. Es una de las transformaciones de Mario en este juego. Se obtiene con la Caja Helicóptero. Al tener esta habilidad, Mario no puede lanzar bolas de fuego ni boomerangs.
@@ -190,7 +190,7 @@ Reemplaza al Champiñón Hélice de New Super Mario Bros. Wii en Super Mario 3D 
 
 
 
-![Image text](https://github.com/MariaElenaRufinoL/git_gihub_gen44/blob/master/img/Boo.jpg)
+![Image text](https://github.com/JaviR011/git_gihub_gen44/blob/master/img/Boo.jpg)
 
 Mario Boo
 El artículo Mario Boo es demasiado pequeño, en comparación a lo que podría escribirse de él.
