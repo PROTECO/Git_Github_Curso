@@ -1,8 +1,5 @@
 # Perfil
 
-<p>
-  <img src="img/evomario.jpg" align = "right"  width="150"/>
-</p>
 
 ### Personalidad
 
@@ -21,3 +18,7 @@ Mario es un fontanero de rojos ropajes con un overol azul rey.
 Tiene cabello marrón claro, un icónico bigote y una nariz redonda. 
 Es reconocido por ser más bajo que Luigi y siempre lleva su icónica gorra roja con el estampado de una "M" en el centro. Tiene ojos azules claro y piel clara.
 A veces aparece con diversos trajes, incluyendo aquellos de sus poderes, como el Traje de Rana o de Tanooki.
+
+<p>
+  <img src="https://github.com/JaviR011/git_gihub_gen44/blob/main/img/evomario.jpg" align = "right"  width="150"/>
+</p>
