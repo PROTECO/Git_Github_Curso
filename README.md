@@ -77,8 +77,8 @@ Ha ganado mucha aceptación y apreciación desde sus inicios, incluso se le cons
 
 **SECCIONES**
 
-- [ ] [Perfil](wiki/Perfil.md)
-- [ ] [Concepto y creación](wiki/ConceptoCreacion.md")
+- [ ] [Perfil](Wiki/Perfil.md)
+- [ ] [Concepto y creación](Wiki/ConceptoCreacion.md)
 - [ ] [Habilidades](Wiki/Habilidades.md)
 - [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md)
 
