@@ -52,11 +52,11 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 - Supongamos que el equipo de La Mafia del Poder quiere agregar un pedazo a la wiki en la sección de perfil, sus commits deben ir de la siguiente forma.
 
-`git commit -m "[FEATURE][PERFIL][LMP] Añadí en perfil sobre la personalidad de Link"`
+`git commit -m "[FEATURE][PERFIL][LMP] Añadí en perfil sobre la personalidad de MArio"`
 
 - Supongamos que el equipo de Movimiento Naranja quiere agregar un pedazo a la wiki en la sección de Habilidades, sus commits deben ir de la siguiente forma.
 
-`git commit -m "[FEATURE][HABILIDADES][MN] Añadí la descripción de las habilidades de Link"`
+`git commit -m "[FEATURE][HABILIDADES][MN] Añadí la descripción de las habilidades de Mario"`
 
 - Supongamos que el equipo de Farmacias Similares quiere corregir algo de un commit pasado de la sección de Apariciones, no sé, se les fue unos acentos.
 
@@ -68,6 +68,11 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 Mario (マリオ) es el protagonista de la serie de videojuegos Super Mario y la mascota de Nintendo. Fue creado por Shigeru Miyamoto en 
 1981 e hizo su primera aparición en el videojuego arcade Donkey Kong.
+Es un fontanero estadounidense de origen italiano que actualmente vive en el Reino Champiñón. 
+Como el héroe que es, se encarga de salvar a la gente, especialmente a la Princesa Peach, a quien ha salvado muchísimas veces de las garras del temible Bowser, 
+quien es su archi-enemigo. Es una persona humilde y de buen corazón, que no le importa cuanto tenga que recorrer para salvar a la gente que necesita su ayuda.
+
+Ha ganado mucha aceptación y apreciación desde sus inicios, incluso se le considera como el personaje más famoso de e icono de los videojuegos.
 
 
 **SECCIONES**
