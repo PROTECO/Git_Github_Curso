@@ -72,8 +72,8 @@ Mario (マリオ) es el protagonista de la serie de videojuegos Super Mario y la
 
 **SECCIONES**
 
-- [ ] [Perfil]("")
-- [ ] [Concepto y creación]("")
+- [ ] [Perfil](wiki/Perfil.md)
+- [ ] [Concepto y creación](wiki/ConceptoCreacion.md")
 - [ ] [Habilidades](Wiki/Habilidades.md)
 - [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md)
 
