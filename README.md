@@ -5,10 +5,10 @@
 # Git - GitHub 
 
 <p>
-  <img src="img/link.png" align = "right"  width="250"/>
+  <img src="img/MarioPixel.png" align = "right"  width="250"/>
 </p>
 
-Créditos de la wiki:  [https://zelda.fandom.com/es/wiki/Link]("https://zelda.fandom.com/es/wiki/Link")
+Créditos de la wiki:  [https://mario.fandom.com/es/wiki/Mario]("https://mario.fandom.com/es/wiki/Mario")
 
 > **Comandos de git:** [Git Cheat Sheet]("https://zelda.fandom.com/wiki/Link")
 
@@ -64,11 +64,10 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 
 
-# Link
+# Mario
 
-Link es el nombre del protagonista de The Legend of Zelda. Es el Héroe Elegido por las Diosas, portador de la Espada Maestra y representante de la Trifuerza del Valor. Una vez iniciada su aventura, Link se convierte en un héroe legendario después de salvar a Hyrule de las fuerzas malignas ocasionadas por Ganon (también conocido como Ganondorf). En gran parte de su viaje, consigue distintas armas y objetos con los que logra enfrentarse a sus enemigos, además de también ayudarle a completar las diversas mazmorras que visita. Además de la guía de las Diosas, Link también suele encontrarse con distintos aliados, quienes luego le acompañan hasta el final del viaje; la más reconocida siendo Navi en The Legend of Zelda: Ocarina of Time. En otras ocasiones, Link también recibe ayuda de la Princesa Zelda, quien posteriormente se vuelve también su aliada con el mismo objetivo de defender Hyrule.
-
-Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe distintos títulos respecto a su aventura, incluyendo el famoso título "Héroe Legendario" o "Héroe del Tiempo" en Ocarina of Time.
+Mario (マリオ) es el protagonista de la serie de videojuegos Super Mario y la mascota de Nintendo. Fue creado por Shigeru Miyamoto en 
+1981 e hizo su primera aparición en el videojuego arcade Donkey Kong.
 
 
 **SECCIONES**
