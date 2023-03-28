@@ -82,8 +82,8 @@ El Reino Champiñón es atacado por el Rey de los Koopas. Esta vez, Bowser ha en
 
 #### Super Mario 64.
 <p>
-<div align="center"><img src="../img/supermario64.png" width="600" 
-     height="200"></div>
+<div align="center"><img src="../img/supermario64.png" width="%50" 
+     height="%50"></div>
 </p>
 Super Mario 64 (スーパーマリオ64 Sūpā Mario Rokujūyon?) es un videojuego de plataformas de mundo abierto para la videoconsola Nintendo 64, desarrollado por Nintendo Entertainment Analysis and Development y publicado por Nintendo. Fue lanzado en Japón el 23 de junio de 1996, en América del Norte el 29 de septiembre de 1996 y en Europa el 1 de marzo de 1997. Junto con Pilotwings 64, fue uno de los títulos de lanzamiento para la consola. Como el juego principal del nuevo sistema de Nintendo, Super Mario 64 fortaleció las primeras ventas de la Nintendo 64 y ha vendido más de 11 millones de copias en todo el mundo, sin incluir las ventas de la Consola Virtual de Wii y Wii U ni su inclusión en el compilatorio Super Mario 3D All-Stars para Nintendo Switch.
 
@@ -99,10 +99,37 @@ Super Mario 64 comienza con una carta de la Princesa Peach en la que invita a Ma
 <div align="center"><img src="../gif/mariodance.gif" width="500" 
      height="500"></div> <figcaption><div align="center"> Dance, Mario, dance! :D</figcaption>
 </p>
+
+#### Mario Super Star Saga
+<p>
+<div align="center"><img src="../img/marioyluigisss.png" width="%50" 
+     height="%50"></div>
+</p>
+
+
+Mario & Luigi: Superstar Saga, conocido en Japón como Mario & Luigi RPG (マリオ＆ルイージRPG Mario ando Ruīji Ārupījī?), es un videojuego de género RPG desarrollado por AlphaDream y publicado por Nintendo para la consola portátil Game Boy Advance. Se trata del tercer RPG de la serie Mario, después de Super Mario RPG: Legend of the Seven Stars para SNES y Paper Mario para Nintendo 64. Superstar Saga fue continuada por cuatro secuelas. Posteriormente fue desarrollada una versión de este mismo juego llamada Mario & Luigi: Superstar Saga para Nintendo 3DS. La música fue compuesta por Yōko Shimomura, quien ya había participado anteriormente en juegos de estilo RPG. La crítica elogió la banda sonora, y comentó que «la música resulta nostálgica, pues se combina con los temas anteriores ya escuchados a lo largo de la serie; sin embargo, 'serpentea' frecuentemente»
+
+##### Trama
+
+Al inicio del juego, la Princesa Peach está en su castillo aguardando al embajador del Reino Haba. Pronto se revela que el «embajador» es de hecho Cackletta, quien, ayudada por su cómico secuaz Fawful le roba la voz reemplazándola con explosivos. Después de ser advertidos de lo sucedido con la Princesa Peach por parte de Toad, Mario y Luigi luchan contra Bowser, quien decide no secuestrar a la Princesa Peach debido a su «vocabulario explosivo» ya que este arruinaría su castillo. Por ello, Bowser hizo un acuerdo para ayudar a los Mario Bros. a recuperar la voz de la Princesa Peach. Luego, los tres viajan al Reino Haba para encontrar a Cackletta.
+
+Durante el transcurso del juego, Mario y Luigi se enteran de que el verdadero objetivo de Cackletta es activar la Beanstar, un objeto que tiene la capacidad de conceder cualquier clase de deseos a su propietario, y que con la ayuda de la voz de una princesa puede usarse para gobernar al mundo. La Beanstar es descrita como un objeto que sólo actúa sobre alguien cuya voz sea totalmente pura, y la Princesa Peach es la única persona conocida que posee dicha voz. A mitad del juego, Mario y Luigi se enfrentan a Cackletta. Después de su derrota, Bowser es poseído por el espíritu de Cackletta, resultando en Bowletta, quien, tras comprender que en realidad no robó la voz de la Princesa Peach, secuestra a la princesa y se apodera del Castillo de Bowser. Los hermanos unen fuerzas con el Príncipe Peasley para derrotarla. Sin embargo, Bowletta derrota a Mario y a Luigi, y a continuación se los traga. Dentro de su estómago, ambos hermanos apenas conscientes, encuentran el alma de Cackletta a la cual intentan confrontar. El alma de Cackletta es derrotada completamente, volviendo a la normalidad el cuerpo de Bowser; y con ello, no sólo salvan al Reino Haba, sino también al Reino Champiñón.
+
+<p>
+<div align="center"><img src="../gif/marioyluigidance.gif"  width="%50" 
+     height="%50"></div>
+</p>
+
+
 ## Diseño de personaje
 El primer sprite de Link en The Legend of Zelda fue hecho por Takashi Tezuka, que tomó inspiración del personaje Peter Pan en su adaptación homónima hecha por Disney, de la cual se tomó el color verde para la ropa de Link para hacer que el personaje sea reconocible. Junto a su diseño caricaturesco, la apariencia de Link toma una aparente inspiración de los elfos o duendes, por el hecho de tener una muy baja estatura y sus orejas características. El cabello de Link fue castaño- negro en los primeros videojuegos de la saga, debido a las limitaciones de colores en la consola. A partir de a Link to the Past, su cabello fue representado como rubio fuerte y su color de ojos fue de color azul oscuro.
 
 En el desarrollo de Ocarina of Time, Link tendría dos diseños de personaje: uno para su niñez, otro para su etapa adulta. Fue diseñado por Yusuke Nakano, (diseñador y artista de Ocarina of Time), quien tomó de referencia a "un actor bastante famoso de Hollywood" para el diseño y rostro de Link adulto en Ocarina of Time. Aunque Nakano no mencionó el nombre del actor, cuenta que en los 90's durante el desarrollo del juego, este actor era "muy famoso y reconocido por todos". Muchos fans asumen que se trata del actor Leonardo Dicaprio, debido al éxito mundial que fue su actuación en la película Titanic, estrenada un año antes que Ocarina of Time. Alternativamente, otros fans asumen que podría tratarse de actores populares de la época de los 1980's y 1990's como River Phoenix, Tom Cruise y Brad Pitt. Cerca de esos tiempos, Tom Cruise fue el protagonista de la película Legend en 1985, de la cual muchos fans consideran que Ocarina of Time tomó inspiración para su historia, incluyendo el evidente hecho que su papel protagónico lucía similar al diseño actual de Link. Por otro lado, además de la similitud física con el diseño del personaje de Link adulto, River Phoenix fue la inspiración para el diseño de otro personaje de videojuegos, Squall Leonhart de Final Fantasy VIII; lo que deja una pista del impacto que dejó su imagen y carrera para otros artistas/ ilustradores.
+
+
+
+
+
 
 Durante la creación de Wind Waker, el diseño de Link tomó una apariencia mucho más caricaturesca al estar inspirada en la película "El Príncipe y el dragón de ocho cabezas" de 1963. Originalmente, existirían diferentes etapas de crecimiento físico para él, teniendo una apariencia de niño, adolescente y luego de adulto. Sin embargo, en el videojuego solo se presenta a su apariencia de niño.
 
@@ -114,6 +141,7 @@ Durante la creación de Wind Waker, el diseño de Link tomó una apariencia much
 <figcaption>Concept Art de Link en Wind Waker</figcaption>
 </figure>
 <br>
+
 </br>
 Años después, en el desarrollo de Twilight Princess se tuvo la idea de diseñar a un Link adulto y maduro, sin embargo, esto fue descartado por su apariencia juvenil y adolescente. En el videojuego más reciente, Breath of the Wild, se diseñó a Link con una apariencia intencionalmente andrógina y de "género-neutro", para que tanto jugadores hombres y mujeres pudiesen identificarse más con el personaje. Eiji Aounuma ha declarado que desde Ocarina of Time, siempre quiso que Link fuese un "personaje género neutral", es decir, que su diseño y acciones como héroe se acoplen normalmente ambas audiencias femeninas y masculinas sin perder el sentimiento de inmersión en la jugabilidad. 
 =======
