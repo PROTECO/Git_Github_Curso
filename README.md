@@ -5,10 +5,10 @@
 # Git - GitHub 
 
 <p>
-  <img src="img/link.png" align = "right"  width="250"/>
+  <img src="img/MarioPixel.png" align = "right"  width="250"/>
 </p>
 
-Créditos de la wiki:  [https://zelda.fandom.com/es/wiki/Link]("https://zelda.fandom.com/es/wiki/Link")
+Créditos de la wiki:  [https://mario.fandom.com/es/wiki/Mario]("https://mario.fandom.com/es/wiki/Mario")
 
 > **Comandos de git:** [Git Cheat Sheet]("https://zelda.fandom.com/wiki/Link")
 
@@ -52,11 +52,11 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 - Supongamos que el equipo de La Mafia del Poder quiere agregar un pedazo a la wiki en la sección de perfil, sus commits deben ir de la siguiente forma.
 
-`git commit -m "[FEATURE][PERFIL][LMP] Añadí en perfil sobre la personalidad de Link"`
+`git commit -m "[FEATURE][PERFIL][LMP] Añadí en perfil sobre la personalidad de MArio"`
 
 - Supongamos que el equipo de Movimiento Naranja quiere agregar un pedazo a la wiki en la sección de Habilidades, sus commits deben ir de la siguiente forma.
 
-`git commit -m "[FEATURE][HABILIDADES][MN] Añadí la descripción de las habilidades de Link"`
+`git commit -m "[FEATURE][HABILIDADES][MN] Añadí la descripción de las habilidades de Mario"`
 
 - Supongamos que el equipo de Farmacias Similares quiere corregir algo de un commit pasado de la sección de Apariciones, no sé, se les fue unos acentos.
 
@@ -64,17 +64,21 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 
 
-# Link
+# Mario
 
-Link es el nombre del protagonista de The Legend of Zelda. Es el Héroe Elegido por las Diosas, portador de la Espada Maestra y representante de la Trifuerza del Valor. Una vez iniciada su aventura, Link se convierte en un héroe legendario después de salvar a Hyrule de las fuerzas malignas ocasionadas por Ganon (también conocido como Ganondorf). En gran parte de su viaje, consigue distintas armas y objetos con los que logra enfrentarse a sus enemigos, además de también ayudarle a completar las diversas mazmorras que visita. Además de la guía de las Diosas, Link también suele encontrarse con distintos aliados, quienes luego le acompañan hasta el final del viaje; la más reconocida siendo Navi en The Legend of Zelda: Ocarina of Time. En otras ocasiones, Link también recibe ayuda de la Princesa Zelda, quien posteriormente se vuelve también su aliada con el mismo objetivo de defender Hyrule.
+Mario (マリオ) es el protagonista de la serie de videojuegos Super Mario y la mascota de Nintendo. Fue creado por Shigeru Miyamoto en 
+1981 e hizo su primera aparición en el videojuego arcade Donkey Kong.
+Es un fontanero estadounidense de origen italiano que actualmente vive en el Reino Champiñón. 
+Como el héroe que es, se encarga de salvar a la gente, especialmente a la Princesa Peach, a quien ha salvado muchísimas veces de las garras del temible Bowser, 
+quien es su archi-enemigo. Es una persona humilde y de buen corazón, que no le importa cuanto tenga que recorrer para salvar a la gente que necesita su ayuda.
 
-Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe distintos títulos respecto a su aventura, incluyendo el famoso título "Héroe Legendario" o "Héroe del Tiempo" en Ocarina of Time.
+Ha ganado mucha aceptación y apreciación desde sus inicios, incluso se le considera como el personaje más famoso de e icono de los videojuegos.
 
 
 **SECCIONES**
 
-- [ ] [Perfil]("")
-- [ ] [Concepto y creación]("")
+- [ ] [Perfil](Wiki/Perfil.md)
+- [ ] [Concepto y creación](Wiki/ConceptoCreacion.md)
 - [ ] [Habilidades](Wiki/Habilidades.md)
 - [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md)
 
