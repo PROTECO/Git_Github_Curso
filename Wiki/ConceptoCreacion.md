@@ -1,11 +1,14 @@
 # Concepto y creación
 <p>
-<div align="center"><img src="../img/zeldaNameConcepto.png"></div>
+<img src = "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/04/Asi-luce-Shinji-Ikari-convertido-en-una-waifu-con-fanart-de-Neon-Genesis-Evangelion-1.jpg?fit=1280%2C720&quality=80&ssl=1" aling = "right" width = "40"/>
 </p>
+La idea de Hideaki Anno antes de crear su magum opus era tener a una mujer fuerte y decidida como protagonista de la serie, por lo que desarrolló el personaje de Asuka, pero el diseñador de Evangelion, Yoshiyuki Sadamoto (con quien Anno había trabajado en Gunbuster y Nadia: El Secreto de la Piedra Azul, animes con protagonistas femeninos), imploró al sensei que le permitiese diseñar a un protagonista masculino. De esta manera fue que nació Shinji Ikari.
+
+Para ponerle el nombre a su protagonista Hideaki Anno no se rompió mucho la cabeza, pues tomó prestado el de su compañero y amigo Shinji Higuchi, animador y director de películas que en ese entonces también trabajaba en Gainax. Para el apellido “Ikari”, Anno decidió tomar prestada una palabra de la terminología naval (tal como hizo con todos los pilotos de EVA): en esta caso, ikari al español se traduce como “ancla”.
+
+La idea era mostrar a este adolescente como una persona vulnerable con algunos problemas de tipo emocional sin resolver, y conforme fuese avanzando la serie, llevarlo por el camino de su recuperación.
 
 
-<br>
-</br>
 
 ## Rol 
  
