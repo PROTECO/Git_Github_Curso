@@ -1,0 +1,8 @@
+# Recepción:
+<img src="https://tierragamer.com/wp-content/uploads/2019/08/Neon-Genesis-Evangelion-Shinji-Ikari.jpg" align = "right"  width="250"/>
+Shinji ha sido un personaje muy polémico y controvertido entre los fanáticos del anime. Algunos lo ven como un personaje débil y cobarde, mientras que otros lo ven como un personaje complejo y realista, con problemas de ansiedad y autoestima que lo hacen más humano y cercano al espectador. Muchos también han discutido sobre la relación de Shinji con su padre y cómo esto influye en su personalidad y decisiones. En general, se puede decir que Shinji ha generado opiniones muy divididas entre el público.
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FCmC9kCXIutp%2F&psig=AOvVaw30wzQWvXyR-KbV4jFNO00P&ust=1682970050399000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODRhZKu0v4CFQAAAAAdAAAAABAG" align = "left"  width="250"/>
+
+# Legado:
+Shinji ha dejado un legado importante en la cultura popular del anime. Su personaje ha sido muy influyente en la forma en que se retrata a los protagonistas masculinos en el anime y ha sido objeto de muchos análisis y discusiones sobre su personalidad y desarrollo en la trama. También ha inspirado a otros personajes en el anime y ha sido referenciado en numerosas obras de la cultura popular japonesa. En resumen, Shinji ha dejado una huella significativa en el anime y ha sido un personaje importante para la evolución del género.
+<img src="https://static.wikia.nocookie.net/neongenesisevangelion/images/c/ca/26_C343_shinji-grin.jpg/revision/latest?cb=20130913163529&path-prefix=pt-br" align = "left"  width="250"/>
