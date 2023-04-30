@@ -15,3 +15,5 @@ Este cuenta con diversas habilidades como lo son:
 * ademas de todo eso el tiene una capacidad de aprendizaje muy buena dado que Shinji es un estudiante sobresaliente, capaz de aprender rápidamente nuevos conceptos y habilidades, lo que lo convierte en un piloto más efectivo. esto aunado a su capacidad de reflexión sobre sus acciones y las consecuencias de sus decisiones, lo convierte en un personaje profundo y complejo.
 
 ![shinji_reflexionando](https://pm1.narvii.com/7713/39f6c8788960aa3eb5864ea61c095205ac1c36d5r1-1080-598v2_hq.jpg) 
+Además de esas habilidades el es resistente a lo siguiente
+Manipulación Mental y Manipulación del Alma: El campo A.T. es el límite del ego que mantiene la individualidad de un ser y que protege el alma de la influencia externa
