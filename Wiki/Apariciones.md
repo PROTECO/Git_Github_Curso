@@ -5,7 +5,7 @@
 Shinji realiza su primera aparición en el episodio uno del anime, El ataque del Ángel, donde es convocado a la ciudad de Tokio-3 por su padre, el comandante Gendō Ikari.18​ Sin el conocimiento de Shinji, su padre planeaba que su hijo pudiera servir como piloto de un robot humanoide llamado Evangelion-01. De mala gana y decepcionado por el hecho de que su padre solo había requerido de su presencia para pilotear el Eva, Shinji acepta y derrota a Sachiel, experimentando inicialmente dificultades en el manejo de la unidad 0-1.19​ Después del ataque del ángel, Shinji es llevado a vivir con Misato Katsuragi y comienza a asistir a la escuela en Tokio-3, donde conoce a Tōji Suzuhara y Kensuke Aida, sus primeros amigos.20​ Cuando el ángel Ramiel aparece e intenta destruir el cuartel general de NERV, Shinji y su compañera piloto, Rei Ayanami, trabajan juntos para destruir al Ángel.21​ Shinji luego conoce a Asuka Langley Sōryū, una piloto que proviene de Alemania, y los dos derrotaron con éxito a Gaghiel.22​
 
 <p>
-   <img src="https://i.blogs.es/0bbe7c/netflix-neon-genesis-evangelion-espinof-ver-en-orden/840_560.jpg" align = "left"  width = "25" /> 
+   <img src="https://i.blogs.es/0bbe7c/netflix-neon-genesis-evangelion-espinof-ver-en-orden/840_560.jpg" align = "left"  width = "75" /> 
 </p>
 
 
