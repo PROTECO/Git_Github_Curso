@@ -32,3 +32,11 @@ Shinji está inspirado en el creador del ánime: Hideaki Anno. Pues todo el áni
 ### Edad
 
 Ikari Shinji tiene 14 años cuando ocurren los incidentes de la serie principal. Aunque en otras entregas de la franquicia, como el rebuild 3.0 y el 3.0 + 1.0 tiene 28 años, a pesar de conservar su aspecto adolescente. Esto se debe a un fenómeno causado por pilotar el EVA desde edades tempranas.
+
+###Datos interesantes de Shinji:
+Shinji puede ser demasiado pasivo, sobre todo en los primeros episodios del anime. Si se enfrenta a la autoridad, Shinji se retrae y escapa.
+Shinji ha sido abandonado de pequeño y a pesar de que lo niega, tiene la necesidad de ser aprobado y admirado, por eso anhela elogios y es por ese motivo por el que comienza a pilotar la Unidad-01 para obtener la aprobación y el amor de su padre. 
+Por su pasado Shinji tiene mucho miedo al dolor emocional, le asusta ser abandonado de nuevo o que el resto de personas pueda experimentar sentimientos negativos hacia el cómo el odio o el desprecio.
+Shinji es un joven introvertido que se siente fuera de lugar y con dificultad para controlar sus emociones, cuando acude a alguna fiesta o lugar con mucha gente pasándolo bien. Vive aislado del mundo debido a su estado emocional y por la falta de confianza en sí mismo, Shinji se ha encerrado en sí mismo y rechaza cualquier apego a los demás, por temor a ser traicionado nuevamente.
+Shinji sufre depresión, un trastorno muy habitual en los tiempos que corren y que lo hace más humano y lo acerca mucho más a los espectadores los cuales se siente en ocasiones muy identificados con él.
+Shinji no crece, no envejece, por la razón que permanece todo el tiempo encerrado dentro del EVA en una especie de limbo donde no transcurría el tiempo.
