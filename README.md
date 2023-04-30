@@ -97,7 +97,7 @@ Imparte: Samuel Garrido
 |6|                         |||||
 |7|                         |||||
 |8|                         |||||
-|9|                         |||||
+|9|Flores Aguirre Samuel Moisés                         |||||
 |10|                         |||||
 |11|                         |||||
 |12|                         |||||
