@@ -4,6 +4,13 @@
 
 # Git CheatSheet (El acordeón)
 
+# Pasos al hacer commmits
+
+1) git init (si clonaron su repo desde github, no es necesario)
+2) git add ( Añadir archivos al stage )
+3) git commit -m "Texto commit"
+4) git push ( Añadir archivos al repositorio en línea )
+
 ### MOMENTO, antes de nada: ✋🛑
 
 ## GitHub Student Developer Pack 
