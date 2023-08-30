@@ -68,11 +68,17 @@ Para la primera vez de uso de git es necesario colocar:
 
 `git branch [branch-name]`: Crea una rama que sale del último commit que se tiene en dicha rama.
 
+`git branch -D [branch-name]`: Elimina el nombre de la rama.
+
 `git checkout`: Cambia a otra rama.
 
 `git merge [branch]`: Mezcla los cambios de una rama con otra.
 
 `git log`: Muestra el historial de commits de la rama actual.
+
+### Protección de ramas.
+Las protecciones de ramas sirven para restringir ciertos accesos que la ramas de producción, ya que puede ser que roben la rama de producción (Eso echaría a perder o enviar a la empresa a quiebra.)
+![]() <img src="img/memebranch.jpg" width="200" align="center"><img src="img/memebranch2.jpg" width="200" align="center">
 
 
 ## 🦊 Repositorios remotos (Share & Update) 
