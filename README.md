@@ -10,6 +10,10 @@ Holas a todos y bienvenidos sean al curso de Git y GitHub. Saber git es vital pa
 
 ### Evaluación 🤖✍🏻
 
+| Criterio | Porcentaje|
+|:--------:|:---------:|
+| Proyecto |    60%    |
+| Tarea    |    40%    |
 
 ### Convención de commits 👀
 
