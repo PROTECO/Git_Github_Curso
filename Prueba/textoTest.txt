@@ -1,0 +1,16 @@
+git config --global user.name
+"    " 		    user.email 
+
+git init (dentro de la carpeta) 
+"    "
+git add "nombre"
+"   "	 .
+
+git status
+
+git commit -m "texto descriptivo"
+
+git push (sube a github)
+
+
+git reset "nomb archivo "(quita archivos de stage)
