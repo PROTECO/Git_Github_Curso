@@ -5,6 +5,7 @@
 # Git - GitHub 
 
 
+
 Holas a todos y bienvenidos sean al curso de Git y GitHub. Saber git es vital para trabajar en la industria del software así que mucho ojo.
 
 
@@ -32,3 +33,5 @@ Holas a todos y bienvenidos sean al curso de Git y GitHub. Saber git es vital pa
 - Supongamos que John se confundió al agregar su peli favorita y quiere corregirlo.
 
 `git commit -m "[FIX] Corregí mi película favorita: A silent Voice"`
+
+### Holi :D
